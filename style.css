@@ -1,0 +1,16 @@
+.kotak {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+#kotak1 {
+    width: 400px;
+    height: 400px;
+    background-color:red;
+    margin: 10px;
+    padding-top: 10px;
+    float: left;
+    
+}
+center
